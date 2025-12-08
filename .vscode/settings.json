@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 170,
+  "flake8.enabled": false
+}
